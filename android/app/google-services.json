@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "810288698791",
+    "project_id": "bumper-demo",
+    "storage_bucket": "bumper-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810288698791:android:6d4d7b488e3e3d35385282",
+        "android_client_info": {
+          "package_name": "com.example.bumper_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810288698791-tti9n8j4rk4mjikbfp0tuds13257aeap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj0Yw3wC0Atp5UUIl8p3gYZnvv9_QlReY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810288698791-tti9n8j4rk4mjikbfp0tuds13257aeap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810288698791-bdcbrqb836prsabnk9k3lhdb9g5lencb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bumperDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
